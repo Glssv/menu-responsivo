@@ -4,3 +4,11 @@ Com ajuda do Gustavo Guanabara consegui fazer um mini projeto de um menu respons
 para ver o site só [clicar aqui](https://menu-hamburguinho.netlify.app/)
 
 Fiz para estudar mesmo, um site bem simples pq o intuito é aplicar media queries e javascript 
+
+---
+<h2 align="center">
+  <img src="img/cat.jfif" width="300">
+</h2>
+<p align="center">
+Desenvolvido com 🧡
+</p>
